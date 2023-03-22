@@ -1,6 +1,19 @@
-# Graduation
-The university graduation experiment
+# Graduation-Project
+> Topic: Voice recognition for biometric and voice-activated system design.
 
-"Speaker recognition applied to bio-metric verification and computer voice control system design"
+---
 
-Login.py to activate
+1. Use `Login.ipynb` to activate the Python GUI.
+2. By characteristically capturing MFCCs for audio as input to the GMM, users create user profiles in real-time recording.
+3. Access to the computer's voice control interface after voice matching of acoustic fingerprints.
+4. Provides computer-specific operation for physically challenged people through speech-to-text conversion and instant recognition of the speaker.
+
+![Flow](https://user-images.githubusercontent.com/56038738/226797803-65372cf7-f749-41cc-87fd-e48a7d8df247.jpg)
+
+Credits:
+
+	Clancy:
+		GUI production, main code writing, testing, debugging and optimisation, video production, posters and slides
+
+	Yunwei:
+		Collecting and collating data, some code testing, assisting with posters and slides
