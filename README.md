@@ -13,7 +13,12 @@
 Credits:
 
 	Clancy:
-		GUI production, main code writing, testing, debugging and optimisation, video production, posters and slides
+		GUI production  
+		main code writing & testing  
+		debugging & optimisation  
+		produce posters & slides & demo video
 
 	Yunwei:
-		Collecting and collating data, some code testing, assisting with posters and slides
+		collecting & sorting data  
+		partial code testing  
+		assisting with posters & slides
