@@ -1,5 +1,5 @@
 # Graduation-Project
-> Topic: Voice recognition for biometric and voice-activated system design.
+> Topic: Voice recognition for biometric and voice-activated system design
 
 ---
 
