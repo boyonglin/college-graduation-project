@@ -13,10 +13,10 @@
 Credits:
 
 	Clancy (Leader):
-		GUI production  
+		GUI building  
 		main code writing & testing  
 		debugging & optimisation  
-		produce posters & slides & demo video
+		posters & slides & demo video
 
 	Yunwei:
 		collecting & sorting data  
