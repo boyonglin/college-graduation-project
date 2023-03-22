@@ -3,7 +3,7 @@
 
 ---
 
-1. Use `Login.ipynb` to activate the Python GUI.
+1. Use `Login.py` to activate the Python GUI.
 2. By characteristically capturing MFCCs for audio as input to the GMM, users create user profiles in real-time recording.
 3. Access to the computer's voice control interface after voice matching of acoustic fingerprints.
 4. Provides computer-specific operation for physically challenged people through speech-to-text conversion and instant recognition of the speaker.
@@ -12,7 +12,7 @@
 
 Credits:
 
-	Clancy:
+	Clancy (Leader):
 		GUI production  
 		main code writing & testing  
 		debugging & optimisation  
