@@ -1,4 +1,4 @@
-# graduation-project
+# college-graduation-project
 > Topic: Voice recognition for biometric and voice-activated system design
 
 ---
