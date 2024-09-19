@@ -1,7 +1,5 @@
 # System Design of Speaker Recognition Applied to Biometric Authentication and Computer Voice Control
 
----
-
 Introduction: Speech is a rich source of information and a natural form of human interaction. Technologies like Speech-to-Text (STT) and Speaker Identification enhance security and control systems. Given the increasing prevalence of voice recognition systems, this study aims to assist specific disabled users in performing secure and user-friendly computer operations.
 
 Research Methods:
